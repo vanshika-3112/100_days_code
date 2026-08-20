@@ -15,6 +15,5 @@ int main() {
     else {
         printf("%d is largest\n", c);
     }
-
     return 0;
 }
